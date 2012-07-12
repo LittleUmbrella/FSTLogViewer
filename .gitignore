@@ -1,0 +1,7 @@
+Thumbs.db
+*ReSharper*
+*DotSettings*
+/*.suo
+/*.sln.docstates
+/FSTLogViewer/obj
+/FSTLogViewer/bin
